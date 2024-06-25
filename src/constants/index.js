@@ -16,6 +16,7 @@ import {
     figma,
     docker,
     threejs,
+    subwayscreen
   } from "../assets";
   
   export const navLinks = [
@@ -116,20 +117,6 @@ import {
     },
   ];
 
-  const socials = [
-    {
-      name: "Discord",
-      src: "/instagram.svg",
-    },
-    {
-      name: "Facebook",
-      src: "/facebook.svg",
-    },
-    {
-      name: "Instagram",
-      src: "/discord.svg",
-    },
-  ];
   
   const experiences = [
     {
@@ -250,7 +237,7 @@ import {
       description:
         "...",
       image:
-        "src/assets/subwayscreen.jpg",
+        subwayscreen,
       tags: ["Java", "MySQL", "NewsCatcherAPI", "WeatherAPI"],
       category: "java",
       github: "https://github.com/ibrahimw1/subway-screen",

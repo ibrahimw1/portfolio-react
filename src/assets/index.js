@@ -20,6 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import subwayscreen from "./subwayscreen.jpg"
 
 export {
   logo,
@@ -43,4 +44,5 @@ export {
   tailwind,
   typescript,
   threejs,
+  subwayscreen,
 };
