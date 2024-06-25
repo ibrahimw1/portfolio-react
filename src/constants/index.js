@@ -117,6 +117,20 @@ import {
     },
   ];
 
+  const socials = [
+    {
+      name: "Discord",
+      src: "/instagram.svg",
+    },
+    {
+      name: "Facebook",
+      src: "/facebook.svg",
+    },
+    {
+      name: "Instagram",
+      src: "/discord.svg",
+    },
+  ];
   
   const experiences = [
     {

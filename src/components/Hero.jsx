@@ -37,7 +37,7 @@ const Hero = () => {
 
       <div className="absolute inset-0 top-[120px] w-full h-full flex justify-center items-center">
         <img
-          src="src/assets/Programming-amico.svg"
+          src="./src/assets/Programming-amico.svg"
           alt="Programming"
           className="max-w-full max-h-full object-contain"
           style={{ width: "55%", height: "50%" }}
