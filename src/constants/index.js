@@ -16,7 +16,12 @@ import {
     figma,
     docker,
     threejs,
-    subwayscreen
+    subwayscreen,
+    idcl,
+    nbafantasy,
+    netflix,
+    potionai_back,
+    airline,
   } from "../assets";
   
   export const navLinks = [
@@ -136,7 +141,7 @@ import {
     {
         title: "ML Research Intern",
         company_name: "Intelligent Dynamic and Control Lab, University of Calgary",
-        icon: "public/idcl.png",  // You need to ensure you have an icon for the University of Calgary or replace it with the appropriate icon
+        icon: idcl,  // You need to ensure you have an icon for the University of Calgary or replace it with the appropriate icon
         iconBg: "#383E56",
         date: "May 2024 – Current",
         points: [
@@ -191,7 +196,7 @@ import {
       description:
         "...",
       image:
-        "src/assets/potionai_back.png",
+        potionai_back,
       tags: ["Next Js", "JavaScript", "Firebase", "OpenAI API", "DALL-E", "NeonDB", "DrizzleORM", "Tailwind CSS", ],
       category: "web app",
       github: "https://github.com/ibrahimw1/potion-app",
@@ -207,7 +212,7 @@ import {
       description:
         "...",
       image:
-        "src/assets/airline.png",
+        airline,
       tags: [
         "Java",
         "MySQL",
@@ -224,7 +229,7 @@ import {
       description:
         "...",
       image:
-        "src/assets/netflix.png",
+        netflix,
       tags: ["React.js", "Tailwind CSS", "Firebase", "TMDB API", "Youtube API", "Axios"],
       category: "web app",
       github: "https://github.com/ibrahimw1/netflix-clone",
@@ -264,7 +269,7 @@ import {
       description:
         "Coming soon...",
       image:
-        "src/assets/nbafantasy.png",
+        nbafantasy,
       tags: ["Springboot", "PostgreSQL", "Python", "BeautifulSoup", "PyTorch", ],
       category: "machine learning",
       github: "",

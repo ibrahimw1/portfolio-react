@@ -22,6 +22,11 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import subwayscreen from "./subwayscreen.jpg"
 import programming from "./Programming-amico.svg"
+import nbafantasy from "./nbafantasy.png"
+import netflix from "./netflix.png"
+import potionai_back from "./potionai_back.png"
+import airline from "./airline.png"
+import idcl from "./idcl.png"
 
 export {
   logo,
@@ -47,4 +52,9 @@ export {
   threejs,
   subwayscreen,
   programming,
+  nbafantasy,
+  netflix,
+  potionai_back,
+  airline,
+  idcl
 };
