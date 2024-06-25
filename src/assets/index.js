@@ -21,6 +21,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import subwayscreen from "./subwayscreen.jpg"
+import programming from "./Programming-amico.svg"
 
 export {
   logo,
@@ -45,4 +46,5 @@ export {
   typescript,
   threejs,
   subwayscreen,
+  programming,
 };
