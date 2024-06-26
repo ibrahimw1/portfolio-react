@@ -143,7 +143,7 @@ import {
         company_name: "Intelligent Dynamic and Control Lab, University of Calgary",
         icon: idcl,  // You need to ensure you have an icon for the University of Calgary or replace it with the appropriate icon
         iconBg: "#383E56",
-        date: "May 2024 – Current",
+        date: "May 2024 – Present",
         points: [
           "Developed and trained a Transformer-based LLM for dynamical systems using PyTorch.",
           "Conducted extensive data preprocessing and visualization, handling 78,000+ data points using Pandas, NumPy, and Matplotlib.",
@@ -157,7 +157,7 @@ import {
       company_name: "Univeristy of Calgary",
       icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6jDSSYoYcJe7Z_iYeWoN3rMycotfIP5wLQ&s",
       iconBg: "white",
-      date: "Sep 2021 - Feb 2022",
+      date: "Sep 2021 - Present",
       points: [
         "Undergraduate Coursework: ",
         "Data Structures and Algorithms (Python), Software Testing Reliability and Quality (Java), DevOps, Applied Operating Systems (Linux/C), Networked Systems (Python), Embedded Systems, Principles of Software Design (Java/C++), Software Architecture, Machine Learning Systems (Python), Full Stack Web Development, Object-Oriented Principles in Java "

@@ -379,7 +379,7 @@ const Navbar = () => {
         scrolled ? "bg-[#03001417]" : "bg-transparent"
       } backdrop-blur-md z-50 px-10 transition-all duration-300`}
     >
-      <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[25px]">
+      <div className="w-full h-full flex flex-row items-center justify-between m-auto px-0 md:px-[20px]">
         <Link
           to="/"
           className="h-auto w-auto flex flex-row items-center"

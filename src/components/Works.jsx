@@ -12,7 +12,7 @@ const Works = ({ openModal, setOpenModal }) => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} text-center`}>My work</p>
+        <p className={`${styles.sectionSubText} text-center mt-8 sm:mt-0`}>My work</p>
         <h2 className={`${styles.sectionHeadText} text-center`}>Projects</h2>
       </motion.div>
 
