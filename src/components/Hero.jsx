@@ -22,10 +22,12 @@ const Hero = () => {
             <ReactTyped
               strings={[
                 "Software Engineer",
+                "Tech Enthusiast",
                 "LLM Researcher",
                 "Problem Solver",
                 "Machine Learning Engineer",
                 "Full Stack Developer",
+                "MLOps"
               ]}
               typeSpeed={100}
               backSpeed={60}

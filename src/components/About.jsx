@@ -36,6 +36,7 @@ const ServiceCard = ({ index, title, icon }) => (
 );
 
 const About = () => {
+  const highlightStyle = { color: '#915EFF' };
   return (
     <>
       <motion.div variants={textVariant()}>
@@ -47,11 +48,22 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        {/* I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life! */}
+      Hello! I am Ibrahim Wani, a third-year Software Engineering Student at the University of Calgary with a profound passion for programming and technology.
+      Fueled by my passion for innovation, I have a strong background in various technologies including <span style={highlightStyle}>Python</span>, <span style={highlightStyle}>AWS Cloud</span>, <span style={highlightStyle}>JavaScript</span>, <span style={highlightStyle}>C++</span>, <span style={highlightStyle}>Java</span>, <span style={highlightStyle}>React</span>, <span style={highlightStyle}>AWS Cloud</span>, <span style={highlightStyle}>ML/AI</span>, <span style={highlightStyle}>Generative AI</span>, <span style={highlightStyle}>LLMs</span> and <span style={highlightStyle}>SQL</span>.
+      
+      </motion.p>
+      <motion.p
+        variants={fadeIn("", "", 0.1, 2)}
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+      >
+        I am also deeply interested in and currently advancing my knowledge in the areas of <span style={highlightStyle}>MLOps</span>, <span style={highlightStyle}>DevOps</span>, and <span style={highlightStyle}>Cloud Computing</span>.
+        I love to continuously learn and stay up-to-date with the latest advancements in the field of <span style={highlightStyle}>software engineering</span>.
+      </motion.p>
+      <motion.p
+        variants={fadeIn("", "", 0.1, 3)}
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+      >
+        Thank you for visiting my portfolio, and I invite you to explore my work further. Feel free to reach out if you'd like to collaborate or share your own adventures.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -54,7 +54,7 @@ import {
       icon: web,
     },
     {
-      title: "Software Developer",
+      title: "Software Engineer",
       icon: mobile,
     },
     {
@@ -148,7 +148,8 @@ import {
           "Developed and trained a Transformer-based LLM for dynamical systems using PyTorch.",
           "Conducted extensive data preprocessing and visualization, handling 78,000+ data points using Pandas, NumPy, and Matplotlib.",
           "Developed a custom library and modified the SINDy-PI algorithm to effectively model helicopter dynamics.",
-          "Planning the development and benchmarking of Physics-Informed Neural Network models, along with 2 other NLP models, against the Transformer model",
+          "Planning the development and benchmarking of Physics-Informed Neural Network models, along with 2 other NLP models, against the Transformer model.",
+          "Working on robotic arm manipulation with Reinforcement Learning.",
           "On track to publish a research paper detailing the findings, expanding scholarly understanding of applying ML to physical systems.",
         ],
       },      
