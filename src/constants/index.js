@@ -396,12 +396,12 @@ import {
         {
           name: "PyTorch",
           image:
-            "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png",
         },
         {
           name: "TensorFlow",
           image:
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png",
         },
         {
           name: "OpenAI",
